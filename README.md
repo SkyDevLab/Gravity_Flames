@@ -37,6 +37,12 @@ The core JavaScript uses the standard elimination sequence:
 - Friendly emoji-based results
 - Built with plain HTML, CSS, and JavaScript
 
+## 🌐 Live Demo
+
+Try the FLAMES calculator online:
+
+https://skydevlab.github.io/Gravity_Flames/
+
 ## 🛠️ Technologies
 
 - HTML5
