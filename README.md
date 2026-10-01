@@ -61,3 +61,7 @@ Open the project's HTML file in a modern web browser.
 ---
 
 Made with ❤️ by **SkyDevLab**
+
+## 👤 Author
+
+Built and maintained by **Surya Pratap Singh (SkyDevLab)**.
